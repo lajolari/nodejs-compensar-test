@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "AI Blueprint Analysis Platform",
+    "company": "Bairesdev",
+    "role": "Full Stack Developer",
+    "period": "Feb 2025 - Apr 2025",
+    "description": "Desarrollo de componentes Full Stack para una aplicación de arquitectura que utiliza modelos de IA para analizar planos. Creación de endpoints en FastAPI y gestión de estado en Vue 3 para la interacción con modelos de IA.",
+    "techStack": ["Vue 3", "FastAPI", "Python", "Docker", "Azure Functions", "MySQL"],
+    "category": "Fullstack"
+  },
+  {
+    "id": "2",
+    "title": "Accounting E-commerce Platform",
+    "company": "Rivka MX",
+    "role": "Full Stack Developer",
+    "period": "Jun 2024 - Feb 2025",
+    "description": "Mantenimiento y desarrollo de una plataforma de e-commerce para el sector contable. Optimización de componentes Frontend en React y mantenimiento de API robusta en Laravel.",
+    "techStack": ["React", "Laravel", "PHP", "MySQL", "JavaScript", "Shopify"],
+    "category": "E-commerce"
+  },
+  {
+    "id": "3",
+    "title": "Laravel/Nova System & Shopify Dev",
+    "company": "TowerHouse Studio",
+    "role": "Full Stack Developer",
+    "period": "Nov 2022 - Jun 2024",
+    "description": "Desarrollo enfocado en Frontend para una aplicación Laravel/Nova usando Vue. Creación de componentes personalizados para Shopify utilizando Liquid.",
+    "techStack": ["Laravel", "Vue.js", "PHP", "Shopify (Liquid)", "React"],
+    "category": "Fullstack"
+  },
+  {
+    "id": "4",
+    "title": "Multi-Backend Integrations System",
+    "company": "Nolock",
+    "role": "Full Stack Developer",
+    "period": "Aug 2021 - Nov 2022",
+    "description": "Desarrollo y mantenimiento de múltiples backends con PHP, WordPress, Python y Node.js. Integración de APIs y construcción de interfaces en React y Vue.",
+    "techStack": ["Node.js", "PHP", "WordPress", "Vue.js", "React", "Python"],
+    "category": "Backend"
+  },
+  {
+    "id": "5",
+    "title": "AWS Cloud Architecture Lab",
+    "company": "Independent Experience",
+    "role": "Cloud Student",
+    "period": "In Progress (2026)",
+    "description": "Implementación de arquitectura Serverless usando Lambda y API Gateway. Gestión de infraestructura como código (IaC) con Terraform y despliegue en EC2/S3.",
+    "techStack": ["AWS", "EC2", "S3", "Lambda", "Terraform", "Serverless"],
+    "category": "Cloud"
+  }
+]
